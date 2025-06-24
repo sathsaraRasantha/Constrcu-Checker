@@ -1,2 +1,4 @@
 backend/venv
 notebooks/venv
+
+notebooks/.env
