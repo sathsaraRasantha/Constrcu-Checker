@@ -2,3 +2,4 @@ backend/venv
 notebooks/venv
 
 notebooks/.env
+mcp-server/.env
