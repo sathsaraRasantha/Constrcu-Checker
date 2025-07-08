@@ -1,5 +1,7 @@
 backend/venv
 notebooks/venv
+DocStore/.env
 
 notebooks/.env
 mcp-server/.env
+.venv
