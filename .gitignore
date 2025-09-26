@@ -1,7 +1,10 @@
 backend/venv
+backend/.env
+backend/notebooks/.env
 notebooks/venv
 DocStore/.env
-
+DocStore/client_specification
+DocStore/construction_standards_pdf
 notebooks/.env
 mcp-server/.env
 .venv
